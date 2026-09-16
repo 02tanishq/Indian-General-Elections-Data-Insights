@@ -124,11 +124,9 @@ Indian-general-elections-insights/
 
 ## About the Author
 
-**Saiyam Jain**  
-B.Tech, Production & Industrial Engineering, MNNIT Allahabad  
-- Email: saiyamlko@gmail.com  
-- LinkedIn: [Saiyam Jain](https://linkedin.com/in/saiyam-jain)  
-- GitHub: [saiyam-jain0](https://github.com/saiyam-jain0)
+**Tanishq Gupta**  
+B.Tech, MNNIT Allahabad  
+- Email: Tanishqg503@gmail.com  
 
 
 ## License
